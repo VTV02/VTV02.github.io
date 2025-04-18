@@ -121,6 +121,9 @@ table, th, td {
 #online_course{
 	padding:10px 10px 10px 0px;
 }
+#course{
+	padding:10px 10px 10px 0px;
+}
 #course_container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
